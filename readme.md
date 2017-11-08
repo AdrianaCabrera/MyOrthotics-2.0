@@ -61,9 +61,7 @@ And here you can check the required components in the Bill of Material table:
 * 1 Pololu 5V Step-Up 
 * 15 cm Plexiglas or MDF
 
-
-<iframe width="1200" height="400" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQNyXvMkMjqd_A8V1l-_PkQrDfvUWKCTbgRYQm9f-GponHiqt3HO7cldyVNz_RV6inC76lGkAMNCfyW/pubhtml?widget=true&amp;headers=false"></iframe>
-
+[Bill of Material](https://docs.google.com/spreadsheets/d/199VWikn73-JOAMEcc2uPSlAMuQEjKREj8A_Vey5oZjk/edit?usp=sharing))
 
 
 ## Authors
