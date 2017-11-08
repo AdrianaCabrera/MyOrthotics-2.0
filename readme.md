@@ -3,7 +3,7 @@
 
 MyOrthotics 2.0 is a new version of the Fab Academy final project (MyOrthotics), developed by Adriana Cabrera in 2016 for cases of semi paralysis. 
 
-![](/Users/acb/Documents/Github/MyOrthotics 2.0/MyOrthotics-2.0/IMG_4043.jpg)
+![](https://github.com/AdrianaCabrera/MyOrthotics-2.0/blob/master/IMG_4043.jpg)
 
 This version is based on cutting and its purpose is to explore rapid construction for orthotics for first aid cases or temporary use.
 The first version of this orthotic workshop was realized in the Fab Lab Kamp-Lintfort Hochschule Rhein Waal for the course of Biomechanics and Biomaterial and for the class of Prof. William Megill. 
@@ -43,7 +43,7 @@ In the repository you can find the template of the splint for men and women to i
 1. Wiring
 
 Check in detail the documentation of the project in the following PDF
-[MyOrthotics 2.0 Workshop manual](/Users/acb/Documents/Github/MyOrthotics 2.0/MyOrthotics-2.0/MyOrthotics Manual.pdf))
+[MyOrthotics 2.0 Workshop manual](https://github.com/AdrianaCabrera/MyOrthotics-2.0/blob/master/MyOrthotics%20Manual.pdf))
 
 
 And here you can check the required components in the Bill of Material table:
